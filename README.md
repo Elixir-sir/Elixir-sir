@@ -1,6 +1,6 @@
  Hi, I'm @Elixir-sir!
 
-👀 I’m interested a Data analytt and interested in anything related to Data analysis.
+👀 I’m a Data analytt and interested in anything related to Data analysis.
 🌱 I’m currently learning and honing my skills in Data analytics.
 💞️ I’m looking to collaborations.
 📫 How to reach me: halimzy071@gmail.com
